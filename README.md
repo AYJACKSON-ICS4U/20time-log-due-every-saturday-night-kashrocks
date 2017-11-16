@@ -21,14 +21,22 @@ This log keeps track of the progress made on my 20 time project from
 
 # Week 5 (Oct 16 - Oct 22)
 - Trying example documents local computer   
-
+- Links I have used for tutorials:
+    - https://www.journaldev.com/2562/apache-poi-tutorial
+    - https://www.tutorialspoint.com/apache_poi/
 # Week 6 (Oct 23 - Oct 29)
-
+- Having trouble with a few small aspects
+- Have not had much progres in general due to limited time. Focusing efforts on Nature of Code currently
 
 # Week 7 (Oct 30 - Nov 5)
-
+- 20 time project got sideline by having to go back and complete Javascript challenges
+- Have plans to implement more features
 
 # Week 8 (Nov 6 - Nov 12)
+- Nature of code has taken all my time
+
+# Week 9 (Nov 13 - Nov 19)
+
 
 
 
