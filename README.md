@@ -55,6 +55,11 @@ This log keeps track of the progress made on my 20 time project from
 - Created a video explaining my thought proccess for creating the pwoer eficient charger
 - edited and filmed within two days, happy with the turn out. 
 
+# Week 13 (Dec 11 - Dec 17)
+- Added a reflection component to the video
+- Started the Slideshow
+
+
 
 
 
